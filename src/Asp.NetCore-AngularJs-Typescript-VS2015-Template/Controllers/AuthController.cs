@@ -19,7 +19,7 @@ namespace Asp.NetCore_AngularJs_Typescript_VS2015_Template.Controllers
         }
 
         [HttpGet("/Login")]
-        public IActionResult Login(string returnUrl = "/App")
+        public IActionResult Login(string returnUrl = "/")
         {
             var model = new ModelLogin();
             model.ReturnUrl = returnUrl;

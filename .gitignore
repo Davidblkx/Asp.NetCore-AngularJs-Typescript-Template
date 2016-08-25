@@ -244,3 +244,4 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/src/Asp.NetCore-AngularJs-Typescript-VS2015-Template/typings

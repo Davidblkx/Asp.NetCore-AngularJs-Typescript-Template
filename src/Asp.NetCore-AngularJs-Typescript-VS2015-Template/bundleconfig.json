@@ -20,5 +20,11 @@
     "inputFiles": [
       "wwwsrc/scripts/site.js"
     ]
+  },
+  {
+    "outputFileName": "wwwsrc/scripts/livereload.min.js",
+    "inputFiles": [
+      "wwwsrc/scripts/livereload.js"
+    ]
   }
 ]
